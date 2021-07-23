@@ -1,0 +1,1 @@
+# Qt5_Advanced_1.14_Threads_QFutureWatcher
